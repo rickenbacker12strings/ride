@@ -1,0 +1,11 @@
+body {
+    background: url(download.jpg);
+}
+
+p {
+    text-align: center;
+    font-family: Arial;
+    font-size: 50px;
+    font-weight: 600;
+    color: red;
+}
